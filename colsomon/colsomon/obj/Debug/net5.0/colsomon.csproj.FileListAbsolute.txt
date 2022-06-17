@@ -1,0 +1,32 @@
+C:\Users\ruben\source\repos\colsomon\colsomon\bin\Debug\net5.0\colsomon.exe
+C:\Users\ruben\source\repos\colsomon\colsomon\bin\Debug\net5.0\colsomon.deps.json
+C:\Users\ruben\source\repos\colsomon\colsomon\bin\Debug\net5.0\colsomon.runtimeconfig.json
+C:\Users\ruben\source\repos\colsomon\colsomon\bin\Debug\net5.0\colsomon.runtimeconfig.dev.json
+C:\Users\ruben\source\repos\colsomon\colsomon\bin\Debug\net5.0\colsomon.dll
+C:\Users\ruben\source\repos\colsomon\colsomon\bin\Debug\net5.0\ref\colsomon.dll
+C:\Users\ruben\source\repos\colsomon\colsomon\bin\Debug\net5.0\colsomon.pdb
+C:\Users\ruben\source\repos\colsomon\colsomon\obj\Debug\net5.0\colsomon.csproj.AssemblyReference.cache
+C:\Users\ruben\source\repos\colsomon\colsomon\obj\Debug\net5.0\colsomon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\source\repos\colsomon\colsomon\obj\Debug\net5.0\colsomon.AssemblyInfoInputs.cache
+C:\Users\ruben\source\repos\colsomon\colsomon\obj\Debug\net5.0\colsomon.AssemblyInfo.cs
+C:\Users\ruben\source\repos\colsomon\colsomon\obj\Debug\net5.0\colsomon.csproj.CoreCompileInputs.cache
+C:\Users\ruben\source\repos\colsomon\colsomon\obj\Debug\net5.0\colsomon.dll
+C:\Users\ruben\source\repos\colsomon\colsomon\obj\Debug\net5.0\ref\colsomon.dll
+C:\Users\ruben\source\repos\colsomon\colsomon\obj\Debug\net5.0\colsomon.pdb
+C:\Users\ruben\source\repos\colsomon\colsomon\obj\Debug\net5.0\colsomon.genruntimeconfig.cache
+C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\colsomon\colsomon\bin\Debug\net5.0\colsomon.exe
+C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\colsomon\colsomon\bin\Debug\net5.0\colsomon.deps.json
+C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\colsomon\colsomon\bin\Debug\net5.0\colsomon.runtimeconfig.json
+C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\colsomon\colsomon\bin\Debug\net5.0\colsomon.runtimeconfig.dev.json
+C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\colsomon\colsomon\bin\Debug\net5.0\colsomon.dll
+C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\colsomon\colsomon\bin\Debug\net5.0\ref\colsomon.dll
+C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\colsomon\colsomon\bin\Debug\net5.0\colsomon.pdb
+C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\colsomon\colsomon\obj\Debug\net5.0\colsomon.csproj.AssemblyReference.cache
+C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\colsomon\colsomon\obj\Debug\net5.0\colsomon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\colsomon\colsomon\obj\Debug\net5.0\colsomon.AssemblyInfoInputs.cache
+C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\colsomon\colsomon\obj\Debug\net5.0\colsomon.AssemblyInfo.cs
+C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\colsomon\colsomon\obj\Debug\net5.0\colsomon.csproj.CoreCompileInputs.cache
+C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\colsomon\colsomon\obj\Debug\net5.0\colsomon.dll
+C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\colsomon\colsomon\obj\Debug\net5.0\ref\colsomon.dll
+C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\colsomon\colsomon\obj\Debug\net5.0\colsomon.pdb
+C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\colsomon\colsomon\obj\Debug\net5.0\colsomon.genruntimeconfig.cache
