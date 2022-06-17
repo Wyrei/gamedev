@@ -1,0 +1,16 @@
+C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\2022P4consolemon\EnumOpdracht\EnumOpdracht\bin\Debug\net5.0\EnumOpdracht.exe
+C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\2022P4consolemon\EnumOpdracht\EnumOpdracht\bin\Debug\net5.0\EnumOpdracht.deps.json
+C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\2022P4consolemon\EnumOpdracht\EnumOpdracht\bin\Debug\net5.0\EnumOpdracht.runtimeconfig.json
+C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\2022P4consolemon\EnumOpdracht\EnumOpdracht\bin\Debug\net5.0\EnumOpdracht.runtimeconfig.dev.json
+C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\2022P4consolemon\EnumOpdracht\EnumOpdracht\bin\Debug\net5.0\EnumOpdracht.dll
+C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\2022P4consolemon\EnumOpdracht\EnumOpdracht\bin\Debug\net5.0\ref\EnumOpdracht.dll
+C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\2022P4consolemon\EnumOpdracht\EnumOpdracht\bin\Debug\net5.0\EnumOpdracht.pdb
+C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\2022P4consolemon\EnumOpdracht\EnumOpdracht\obj\Debug\net5.0\EnumOpdracht.csproj.AssemblyReference.cache
+C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\2022P4consolemon\EnumOpdracht\EnumOpdracht\obj\Debug\net5.0\EnumOpdracht.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\2022P4consolemon\EnumOpdracht\EnumOpdracht\obj\Debug\net5.0\EnumOpdracht.AssemblyInfoInputs.cache
+C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\2022P4consolemon\EnumOpdracht\EnumOpdracht\obj\Debug\net5.0\EnumOpdracht.AssemblyInfo.cs
+C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\2022P4consolemon\EnumOpdracht\EnumOpdracht\obj\Debug\net5.0\EnumOpdracht.csproj.CoreCompileInputs.cache
+C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\2022P4consolemon\EnumOpdracht\EnumOpdracht\obj\Debug\net5.0\EnumOpdracht.dll
+C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\2022P4consolemon\EnumOpdracht\EnumOpdracht\obj\Debug\net5.0\ref\EnumOpdracht.dll
+C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\2022P4consolemon\EnumOpdracht\EnumOpdracht\obj\Debug\net5.0\EnumOpdracht.pdb
+C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\2022P4consolemon\EnumOpdracht\EnumOpdracht\obj\Debug\net5.0\EnumOpdracht.genruntimeconfig.cache
