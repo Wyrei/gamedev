@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ruben\\Desktop\\SD1A\\SD1A peroide 4\\GD\\2022P4consolemon\\EnumOpdracht\\EnumOpdracht\\EnumOpdracht.csproj",
+      "projectUniqueName": "C:\\Users\\ruben\\Desktop\\SD1A\\SD1A peroide 4\\GD\\EnumOpdracht\\EnumOpdracht\\EnumOpdracht.csproj",
       "projectName": "EnumOpdracht",
-      "projectPath": "C:\\Users\\ruben\\Desktop\\SD1A\\SD1A peroide 4\\GD\\2022P4consolemon\\EnumOpdracht\\EnumOpdracht\\EnumOpdracht.csproj",
+      "projectPath": "C:\\Users\\ruben\\Desktop\\SD1A\\SD1A peroide 4\\GD\\EnumOpdracht\\EnumOpdracht\\EnumOpdracht.csproj",
       "packagesPath": "C:\\Users\\ruben\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ruben\\Desktop\\SD1A\\SD1A peroide 4\\GD\\2022P4consolemon\\EnumOpdracht\\EnumOpdracht\\obj\\",
+      "outputPath": "C:\\Users\\ruben\\Desktop\\SD1A\\SD1A peroide 4\\GD\\EnumOpdracht\\EnumOpdracht\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ruben\\AppData\\Roaming\\NuGet\\NuGet.Config",

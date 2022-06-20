@@ -1,0 +1,32 @@
+C:\Users\ruben\Downloads\FileIOExcerciseIncomplete\FileIOExcerciseIncomplete\FileIOExcercise\bin\Debug\net5.0\FileIOExcercise.exe
+C:\Users\ruben\Downloads\FileIOExcerciseIncomplete\FileIOExcerciseIncomplete\FileIOExcercise\bin\Debug\net5.0\FileIOExcercise.deps.json
+C:\Users\ruben\Downloads\FileIOExcerciseIncomplete\FileIOExcerciseIncomplete\FileIOExcercise\bin\Debug\net5.0\FileIOExcercise.runtimeconfig.json
+C:\Users\ruben\Downloads\FileIOExcerciseIncomplete\FileIOExcerciseIncomplete\FileIOExcercise\bin\Debug\net5.0\FileIOExcercise.runtimeconfig.dev.json
+C:\Users\ruben\Downloads\FileIOExcerciseIncomplete\FileIOExcerciseIncomplete\FileIOExcercise\bin\Debug\net5.0\FileIOExcercise.dll
+C:\Users\ruben\Downloads\FileIOExcerciseIncomplete\FileIOExcerciseIncomplete\FileIOExcercise\bin\Debug\net5.0\ref\FileIOExcercise.dll
+C:\Users\ruben\Downloads\FileIOExcerciseIncomplete\FileIOExcerciseIncomplete\FileIOExcercise\bin\Debug\net5.0\FileIOExcercise.pdb
+C:\Users\ruben\Downloads\FileIOExcerciseIncomplete\FileIOExcerciseIncomplete\FileIOExcercise\obj\Debug\net5.0\FileIOExcercise.csproj.AssemblyReference.cache
+C:\Users\ruben\Downloads\FileIOExcerciseIncomplete\FileIOExcerciseIncomplete\FileIOExcercise\obj\Debug\net5.0\FileIOExcercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\Downloads\FileIOExcerciseIncomplete\FileIOExcerciseIncomplete\FileIOExcercise\obj\Debug\net5.0\FileIOExcercise.AssemblyInfoInputs.cache
+C:\Users\ruben\Downloads\FileIOExcerciseIncomplete\FileIOExcerciseIncomplete\FileIOExcercise\obj\Debug\net5.0\FileIOExcercise.AssemblyInfo.cs
+C:\Users\ruben\Downloads\FileIOExcerciseIncomplete\FileIOExcerciseIncomplete\FileIOExcercise\obj\Debug\net5.0\FileIOExcercise.csproj.CoreCompileInputs.cache
+C:\Users\ruben\Downloads\FileIOExcerciseIncomplete\FileIOExcerciseIncomplete\FileIOExcercise\obj\Debug\net5.0\FileIOExcercise.dll
+C:\Users\ruben\Downloads\FileIOExcerciseIncomplete\FileIOExcerciseIncomplete\FileIOExcercise\obj\Debug\net5.0\ref\FileIOExcercise.dll
+C:\Users\ruben\Downloads\FileIOExcerciseIncomplete\FileIOExcerciseIncomplete\FileIOExcercise\obj\Debug\net5.0\FileIOExcercise.pdb
+C:\Users\ruben\Downloads\FileIOExcerciseIncomplete\FileIOExcerciseIncomplete\FileIOExcercise\obj\Debug\net5.0\FileIOExcercise.genruntimeconfig.cache
+C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\FileIOExcerciseIncomplete\FileIOExcerciseIncomplete\FileIOExcercise\bin\Debug\net5.0\FileIOExcercise.exe
+C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\FileIOExcerciseIncomplete\FileIOExcerciseIncomplete\FileIOExcercise\bin\Debug\net5.0\FileIOExcercise.deps.json
+C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\FileIOExcerciseIncomplete\FileIOExcerciseIncomplete\FileIOExcercise\bin\Debug\net5.0\FileIOExcercise.runtimeconfig.json
+C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\FileIOExcerciseIncomplete\FileIOExcerciseIncomplete\FileIOExcercise\bin\Debug\net5.0\FileIOExcercise.runtimeconfig.dev.json
+C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\FileIOExcerciseIncomplete\FileIOExcerciseIncomplete\FileIOExcercise\bin\Debug\net5.0\FileIOExcercise.dll
+C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\FileIOExcerciseIncomplete\FileIOExcerciseIncomplete\FileIOExcercise\bin\Debug\net5.0\ref\FileIOExcercise.dll
+C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\FileIOExcerciseIncomplete\FileIOExcerciseIncomplete\FileIOExcercise\bin\Debug\net5.0\FileIOExcercise.pdb
+C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\FileIOExcerciseIncomplete\FileIOExcerciseIncomplete\FileIOExcercise\obj\Debug\net5.0\FileIOExcercise.csproj.AssemblyReference.cache
+C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\FileIOExcerciseIncomplete\FileIOExcerciseIncomplete\FileIOExcercise\obj\Debug\net5.0\FileIOExcercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\FileIOExcerciseIncomplete\FileIOExcerciseIncomplete\FileIOExcercise\obj\Debug\net5.0\FileIOExcercise.AssemblyInfoInputs.cache
+C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\FileIOExcerciseIncomplete\FileIOExcerciseIncomplete\FileIOExcercise\obj\Debug\net5.0\FileIOExcercise.AssemblyInfo.cs
+C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\FileIOExcerciseIncomplete\FileIOExcerciseIncomplete\FileIOExcercise\obj\Debug\net5.0\FileIOExcercise.csproj.CoreCompileInputs.cache
+C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\FileIOExcerciseIncomplete\FileIOExcerciseIncomplete\FileIOExcercise\obj\Debug\net5.0\FileIOExcercise.dll
+C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\FileIOExcerciseIncomplete\FileIOExcerciseIncomplete\FileIOExcercise\obj\Debug\net5.0\ref\FileIOExcercise.dll
+C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\FileIOExcerciseIncomplete\FileIOExcerciseIncomplete\FileIOExcercise\obj\Debug\net5.0\FileIOExcercise.pdb
+C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\FileIOExcerciseIncomplete\FileIOExcerciseIncomplete\FileIOExcercise\obj\Debug\net5.0\FileIOExcercise.genruntimeconfig.cache

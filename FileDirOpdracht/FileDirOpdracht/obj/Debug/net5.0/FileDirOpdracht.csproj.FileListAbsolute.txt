@@ -1,0 +1,16 @@
+C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\FileDirOpdracht\FileDirOpdracht\bin\Debug\net5.0\FileDirOpdracht.exe
+C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\FileDirOpdracht\FileDirOpdracht\bin\Debug\net5.0\FileDirOpdracht.deps.json
+C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\FileDirOpdracht\FileDirOpdracht\bin\Debug\net5.0\FileDirOpdracht.runtimeconfig.json
+C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\FileDirOpdracht\FileDirOpdracht\bin\Debug\net5.0\FileDirOpdracht.runtimeconfig.dev.json
+C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\FileDirOpdracht\FileDirOpdracht\bin\Debug\net5.0\FileDirOpdracht.dll
+C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\FileDirOpdracht\FileDirOpdracht\bin\Debug\net5.0\ref\FileDirOpdracht.dll
+C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\FileDirOpdracht\FileDirOpdracht\bin\Debug\net5.0\FileDirOpdracht.pdb
+C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\FileDirOpdracht\FileDirOpdracht\obj\Debug\net5.0\FileDirOpdracht.csproj.AssemblyReference.cache
+C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\FileDirOpdracht\FileDirOpdracht\obj\Debug\net5.0\FileDirOpdracht.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\FileDirOpdracht\FileDirOpdracht\obj\Debug\net5.0\FileDirOpdracht.AssemblyInfoInputs.cache
+C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\FileDirOpdracht\FileDirOpdracht\obj\Debug\net5.0\FileDirOpdracht.AssemblyInfo.cs
+C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\FileDirOpdracht\FileDirOpdracht\obj\Debug\net5.0\FileDirOpdracht.csproj.CoreCompileInputs.cache
+C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\FileDirOpdracht\FileDirOpdracht\obj\Debug\net5.0\FileDirOpdracht.dll
+C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\FileDirOpdracht\FileDirOpdracht\obj\Debug\net5.0\ref\FileDirOpdracht.dll
+C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\FileDirOpdracht\FileDirOpdracht\obj\Debug\net5.0\FileDirOpdracht.pdb
+C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\FileDirOpdracht\FileDirOpdracht\obj\Debug\net5.0\FileDirOpdracht.genruntimeconfig.cache

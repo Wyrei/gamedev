@@ -30,7 +30,17 @@ namespace colsomon
         {
             this.health = copyfrom.health;
             this.Energy = copyfrom.Energy;
+            this.skills = copyfrom.skills;
+            List<Skill> copythese = copyfrom.skills;
+            for (int i = 0; i < copythese.Count; i++)
+            {
+                
+                Skill copyfromthisSkill = copyfrom.skills[i];
+                Skill copy = new Skill(copyfromthisSkill);
 
+                skills.Add(copy);
+            }
+            
         }
     }
     
