@@ -13,3 +13,4 @@ C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\stringsprite\stringsprite\stringsp
 C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\stringsprite\stringsprite\stringsprite\obj\Debug\net5.0\ref\stringsprite.dll
 C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\stringsprite\stringsprite\stringsprite\obj\Debug\net5.0\stringsprite.pdb
 C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\stringsprite\stringsprite\stringsprite\obj\Debug\net5.0\stringsprite.genruntimeconfig.cache
+C:\Users\ruben\Desktop\SD1A\SD1A peroide 4\GD\stringsprite\stringsprite\stringsprite\obj\Debug\net5.0\stringsprite.csproj.AssemblyReference.cache
